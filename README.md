@@ -1,2 +1,3 @@
-# LayoutKit
-Simple Wrapper for AutoLayout
+# UILayoutKit
+
+A description of this package.
