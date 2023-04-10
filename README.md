@@ -1,6 +1,6 @@
 # UILayoutKit
 
-A description of this package.
+Autlayout helper
 
 
 ### Simple Example:
@@ -34,9 +34,6 @@ label
    .top(to: switcher)
    .right(24)
 ```
-<p align="left">
-  <img src="https://i.imgur.com/X0w6WIS.png" width="400">
-</p>
 
 ### Enabling safe area API
 ```swift
